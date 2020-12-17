@@ -4,10 +4,12 @@ Passenger flights between [Robigo Mines](https://inara.cz/galaxy-station/42265/)
 Also getting Exquisite Focus Crystals
 Nächstes Dock
 ## Materials grind
+### Encoded Materials
 [HIP 12099](https://inara.cz/galaxy-starsystem/47296/) at HIP 12099 1b, Jameson Crash Site with
 Encoded Data Materials
 
-Hyades Sector DR-V c2-23 A 5
+### Manufactured Materials
+Dav’s Hope in Hyades Sector DR-V c2-23 A 5
 ## Frame shift grinds
 
 ## Reputation grind
