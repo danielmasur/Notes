@@ -18,3 +18,5 @@ Data missions from [Ngalinn](https://inara.cz/galaxy-station/37051/) to [Mainani
 
 ### Federation
 
+# Guardian Stuff
+Synuefe NL-N C23-4 B3 https://imgur.com/O3V9t8a
