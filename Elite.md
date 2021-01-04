@@ -6,7 +6,10 @@ Nächstes Dock
 ## Materials grind
 ### Encoded Materials
 [HIP 12099](https://inara.cz/galaxy-starsystem/47296/) at HIP 12099 1b, Jameson Crash Site with
-Encoded Data Materials
+- atypical encryption archives
+- adaptive enryptors capture
+- modified consumer firmware
+- cracked industrial firmware
 
 ### Manufactured Materials
 Dav’s Hope in Hyades Sector DR-V c2-23 A 5
