@@ -1,7 +1,11 @@
 # Grinds
 ## Money grind
 Passenger flights between [Robigo Mines](https://inara.cz/galaxy-station/42265/) and [Sirius Atmospherics](https://inara.cz/galaxy-station/151365/) with Python
-Also getting Exquisite Focus Crystals
+Also getting:
+- Exquisite Focus Crystals
+- Refined Focus Crystals
+- Biotech Conductors
+- Modified Embedded Firmware
 Nächstes Dock
 ## Materials grind
 ### Encoded Materials
