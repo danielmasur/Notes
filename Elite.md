@@ -22,7 +22,11 @@ Dav’s Hope in Hyades Sector DR-V c2-23 A 5
 ## Reputation grind
 ### Empire
 Data missions from [Ngalinn](https://inara.cz/galaxy-station/37051/) to [Mainani](https://inara.cz/galaxy-station/35821/) and back again
-
+Money making:
+4 cabin: 1,6
+8 Cabin: 2,5
+10: 2,3
+16 cabin: 4,7
 Level UP CEOS SOTHIS Missionen
 
 ### Federation
