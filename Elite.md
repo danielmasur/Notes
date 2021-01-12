@@ -35,3 +35,12 @@ Level UP CEOS SOTHIS Missionen
 
 # Guardian Stuff
 Synuefe NL-N C23-4 B3 https://imgur.com/O3V9t8a
+
+
+
+PvE Cutter: https://s.orbis.zone/7sqi
+PvE Vette 1: https://s.orbis.zone/7qz2
+PvE Vette 2: https://s.orbis.zone/7qz4
+Stock PvE Conda: https://s.orbis.zone/863o
+PvE Conda 1: https://s.orbis.zone/82G5
+PvE Conda 2: https://s.orbis.zone/82G7
