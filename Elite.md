@@ -6,7 +6,12 @@ Also getting:
 - Refined Focus Crystals
 - Biotech Conductors
 - Modified Embedded Firmware
-Nächstes Dock
+
+- 4 cabin: 1,6
+- 8 Cabin: 2,7
+- 10: 2,3
+- 16 cabin: 4,7
+
 ## Materials grind
 ### Encoded Materials
 [HIP 12099](https://inara.cz/galaxy-starsystem/47296/) at HIP 12099 1b, Jameson Crash Site with
@@ -17,27 +22,19 @@ Nächstes Dock
 
 ### Manufactured Materials
 Dav’s Hope in Hyades Sector DR-V c2-23 A 5
-## Frame shift grinds
-
-## Rank grind
-### Empire
-Data missions from [Ngalinn](https://inara.cz/galaxy-station/37051/) to [Mainani](https://inara.cz/galaxy-station/35821/) and back again
-
-Money making:
-
-- 4 cabin: 1,6
-- 8 Cabin: 2,7
-- 10: 2,3
-- 16 cabin: 4,7
-
-Rank 
-
-### Federation
-Grind CEOS <-> SOTHIS Missionen, mit Cargo
 
 # Guardian Stuff
 Synuefe NL-N C23-4 B3 https://imgur.com/O3V9t8a
 
+## Ranks grind
+### Empire
+Data missions from [Ngalinn](https://inara.cz/galaxy-station/37051/) to [Mainani](https://inara.cz/galaxy-station/35821/) and back again
+
+### Federation
+Grind CEOS <-> SOTHIS Missionen, mit Cargo
+
+
+# Ships
 
 
 PvE Cutter: https://s.orbis.zone/7sqi
