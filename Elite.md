@@ -19,19 +19,21 @@ Nächstes Dock
 Dav’s Hope in Hyades Sector DR-V c2-23 A 5
 ## Frame shift grinds
 
-## Reputation grind
+## Rank grind
 ### Empire
 Data missions from [Ngalinn](https://inara.cz/galaxy-station/37051/) to [Mainani](https://inara.cz/galaxy-station/35821/) and back again
 
 Money making:
 
-4 cabin: 1,6
-8 Cabin: 2,7
-10: 2,3
-16 cabin: 4,7
-Level UP CEOS SOTHIS Missionen
+- 4 cabin: 1,6
+- 8 Cabin: 2,7
+- 10: 2,3
+- 16 cabin: 4,7
+
+Rank 
 
 ### Federation
+Grind CEOS <-> SOTHIS Missionen, mit Cargo
 
 # Guardian Stuff
 Synuefe NL-N C23-4 B3 https://imgur.com/O3V9t8a
