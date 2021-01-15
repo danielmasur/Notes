@@ -25,7 +25,8 @@ Moneys:
 Dav’s Hope in Hyades Sector DR-V c2-23 A 5
 
 # Guardian Stuff
-Synuefe NL-N C23-4 B3 https://imgur.com/O3V9t8a
+- Mats: Synuefe NL-N C23-4 B3 https://imgur.com/O3V9t8a
+- Data: IC 2391 Sector YE-A d103 B1
 
 ## Ranks grind
 ### Empire
