@@ -38,10 +38,11 @@ Grind CEOS <-> SOTHIS Missionen, mit Cargo
 
 # Ships
 
+    PvE Cutter: https://s.orbis.zone/7sqi
+    PvE Vette 1: https://s.orbis.zone/7qz2
+    PvE Vette 2: https://s.orbis.zone/7qz4
+    Stock PvE Conda: https://s.orbis.zone/863o
+    PvE Conda 1: https://s.orbis.zone/82G5
+    PvE Conda 2: https://s.orbis.zone/82G7
 
-PvE Cutter: https://s.orbis.zone/7sqi
-PvE Vette 1: https://s.orbis.zone/7qz2
-PvE Vette 2: https://s.orbis.zone/7qz4
-Stock PvE Conda: https://s.orbis.zone/863o
-PvE Conda 1: https://s.orbis.zone/82G5
-PvE Conda 2: https://s.orbis.zone/82G7
+
