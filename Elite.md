@@ -1,6 +1,7 @@
 # Grinds
 ## Money grind
 Passenger flights between [Robigo Mines](https://inara.cz/galaxy-station/42265/) and [Sirius Atmospherics](https://inara.cz/galaxy-station/151365/) with Python
+Also getting exploration rank
 Also getting:
 
     Manufactured:
@@ -72,6 +73,12 @@ Data missions from [Ngalinn](https://inara.cz/galaxy-station/37051/) to [Mainani
 ### Federation
 Grind CEOS <-> SOTHIS Missionen, mit Cargo
 
+### Exploration
+Robigo runs
+
+### Trade
+
+### Combat
 
 # Ships
 
