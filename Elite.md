@@ -3,10 +3,10 @@
 Passenger flights between [Robigo Mines](https://inara.cz/galaxy-station/42265/) and [Sirius Atmospherics](https://inara.cz/galaxy-station/151365/) with Python
 Also getting:
 
-    Exquisite Focus Crystals ()
-    Refined Focus Crystals ()
-    Biotech Conductors ()
-    Modified Embedded Firmware ()
+    Exquisite Focus Crystals (5)
+    Refined Focus Crystals (4)
+    Biotech Conductors (5)
+    Modified Embedded Firmware (5)
 
 Moneys:
 
@@ -19,10 +19,10 @@ Moneys:
 ### Encoded Materials
 [HIP 12099](https://inara.cz/galaxy-starsystem/47296/) at HIP 12099 1b, Jameson Crash Site with
 
-    atypical encryption archives ()
-    adaptive enryptors capture ()
-    modified consumer firmware ()
-    cracked industrial firmware ()
+    atypical encryption archives (4)
+    adaptive enryptors capture (5)
+    modified consumer firmware (2)
+    cracked industrial firmware (3)
 
 ### Manufactured Materials
 Dav’s Hope in Hyades Sector DR-V c2-23 A 5
@@ -67,11 +67,11 @@ Grind CEOS <-> SOTHIS Missionen, mit Cargo
 
 # Ships
 
-    PvE Cutter: https://s.orbis.zone/7sqi
-    PvE Vette 1: https://s.orbis.zone/7qz2
-    PvE Vette 2: https://s.orbis.zone/7qz4
-    Stock PvE Conda: https://s.orbis.zone/863o
-    PvE Conda 1: https://s.orbis.zone/82G5
-    PvE Conda 2: https://s.orbis.zone/82G7
+- PvE Cutter: https://s.orbis.zone/7sqi
+- PvE Vette 1: https://s.orbis.zone/7qz2
+- PvE Vette 2: https://s.orbis.zone/7qz4
+- Stock PvE Conda: https://s.orbis.zone/863o
+- PvE Conda 1: https://s.orbis.zone/82G5
+- PvE Conda 2: https://s.orbis.zone/82G7
 
 
