@@ -2,27 +2,56 @@
 ## Money grind
 Passenger flights between [Robigo Mines](https://inara.cz/galaxy-station/42265/) and [Sirius Atmospherics](https://inara.cz/galaxy-station/151365/) with Python
 Also getting:
-- Exquisite Focus Crystals
-- Refined Focus Crystals
-- Biotech Conductors
-- Modified Embedded Firmware
+
+    Exquisite Focus Crystals ()
+    Refined Focus Crystals ()
+    Biotech Conductors ()
+    Modified Embedded Firmware ()
 
 Moneys:
-- 4 cabin: 1,6
-- 8 Cabin: 2,7
-- 10: 2,3
-- 16 cabin: 4,7
+
+    4 cabin:  1,6
+    8 Cabin:  2,7
+    10 Cabin: 2,3
+    16 cabin: 4,7
 
 ## Materials grind
 ### Encoded Materials
 [HIP 12099](https://inara.cz/galaxy-starsystem/47296/) at HIP 12099 1b, Jameson Crash Site with
-- atypical encryption archives
-- adaptive enryptors capture
-- modified consumer firmware
-- cracked industrial firmware
+
+    atypical encryption archives ()
+    adaptive enryptors capture ()
+    modified consumer firmware ()
+    cracked industrial firmware ()
 
 ### Manufactured Materials
 Dav’s Hope in Hyades Sector DR-V c2-23 A 5
+
+    Chemical distillery ()
+    Chemical manipulator ()
+    Chemical processors ()
+    Compound shielding ()
+    Conductive ceramics ()
+    Conductive Polymers ()
+    Electrochemical arrays ()
+    Flawed Focus Crystals ()
+    Focus Crystals ()
+    Galvanising alloys () 
+    Grid resistors ()
+    Heat conduction wiring ()
+    Heat dispersion plate ()
+    Heat exchangers ()
+    Heat vanes ()
+    High density composites ()
+    Hybrid capacitors ()
+    Mechanical components ()
+    Mechanical equipment ()
+    Phase alloys ()
+    Polymer capacitors ()
+    Shielded alloys ()
+    Shield emitters ()
+    Shielding sensors ()
+    Worn shield emitters ()
 
 # Guardian Stuff
 - Mats: Synuefe NL-N C23-4 B3 https://imgur.com/O3V9t8a
