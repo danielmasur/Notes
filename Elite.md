@@ -3,6 +3,7 @@
 Passenger flights between [Robigo Mines](https://inara.cz/galaxy-station/42265/) and [Sirius Atmospherics](https://inara.cz/galaxy-station/151365/) with Python
 Also getting:
 
+    Manufactured:
     Exquisite Focus Crystals (5)
     Refined Focus Crystals (4)
     Biotech Conductors (5)
@@ -19,6 +20,7 @@ Moneys:
 ### Encoded Materials
 [HIP 12099](https://inara.cz/galaxy-starsystem/47296/) at HIP 12099 1b, Jameson Crash Site with
 
+    Encoded:
     atypical encryption archives (4)
     adaptive enryptors capture (5)
     modified consumer firmware (2)
@@ -27,6 +29,9 @@ Moneys:
 ### Manufactured Materials
 Dav’s Hope in Hyades Sector DR-V c2-23 A 5
 
+9 Manufactured, 1 Encoded per run
+
+    Manufactured:
     Chemical distillery (3)
     Chemical manipulator (4)
     Chemical processors (2)
@@ -52,6 +57,9 @@ Dav’s Hope in Hyades Sector DR-V c2-23 A 5
     Shield emitters (2)
     Shielding sensors (3)
     Worn shield emitters (1)
+    
+    Encoded:
+    
 
 # Guardian Stuff
 - Mats: Synuefe NL-N C23-4 B3 https://imgur.com/O3V9t8a
