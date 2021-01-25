@@ -81,6 +81,8 @@ Robigo runs
 
 ### Trade
 
+Siehe Federation Grind
+
 ### Combat
 
 # Ships
