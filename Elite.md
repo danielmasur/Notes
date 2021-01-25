@@ -60,10 +60,13 @@ Dav’s Hope in Hyades Sector DR-V c2-23 A 5
     Worn shield emitters (1)
     
     Encoded:
-    Tagged Encryption Codes (2)
-    Specialised Legacy Firmware (1)
     Classified Scan Databanks (3)
+    cracked industrial firmware (3) rare
+    modified consumer firmware (2) rare
+    Specialised Legacy Firmware (1)
+    Tagged Encryption Codes (2) rare
     Unusual Encrypted Files (1)
+    
 
 # Guardian Stuff
 - Mats: Synuefe NL-N C23-4 B3 https://imgur.com/O3V9t8a
