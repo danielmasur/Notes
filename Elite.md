@@ -24,8 +24,8 @@ Moneys:
     Encoded:
     atypical encryption archives (4)
     adaptive enryptors capture (5)
-    modified consumer firmware (2)
-    cracked industrial firmware (3)
+    modified consumer firmware (2) rare
+    cracked industrial firmware (3) rare
 
 ### Manufactured Materials
 Dav’s Hope in Hyades Sector DR-V c2-23 A 5
