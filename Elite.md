@@ -46,13 +46,13 @@ Dav’s Hope in Hyades Sector DR-V c2-23 A 5
     Electrochemical Arrays (3)  
     Flawed Focus Crystals (2)  
     Focus Crystals (3)  
-    Galvanising Alloys (2) (often) 
+    Galvanising Alloys (2) (common) 
     Grid Resistors (1) (rare) 
     Heat Conduction Wiring (1) (rare) 
     Heat Dispersion Plate (2)  
     Heat Exchangers (3)  
     Heat Vanes (4)  
-    High Density Composites (3) (often) 
+    High Density Composites (3) (common) 
     Hybrid Capacitors (2)  
     Mechanical Components (3)  
     Mechanical Equipment (2)  
@@ -74,35 +74,18 @@ Dav’s Hope in Hyades Sector DR-V c2-23 A 5
     Unusual Encrypted Files (1)
 
 ### Manufactured in space
-Manufactured
 
-
-
-Fly to each system type you’re farming.
-
-Goto nav beacon, drop out of supercruise
-
-Scan nav beacon
-
-Re enter supercruise, head to the high grade emission signal source. You want at least 25 minutes remaining on the source.
-
-Exit supercruise at the source. There will be between 3-6 targets, each providing 3 of a particular material.
-
-Open cargo bay.
-
-Release collector limpets.
-
-When complete, EXIT game completely, not log off to main menu.
-
-Re-enter game, and back into same mode you just left (open, private, solo).
-
-Enter supercruise and stop immediately (speed 0 as soon as you see the countdown to enter supercruise, do not exit supercruise)
-
-Open nav panel, there will be an undiscovered signal source right behind you.
-
-Head to signal source, it’s the same one you left, but restocked with targets to collect.
-
-Rinse and repeat until the timer runs out on the signal source, or you have hit the limit of the amount you can carry.
+- Fly to each system type you’re farming.
+- Scan nav beacon
+- Re enter supercruise, head to the high grade emission signal source. You want at least 25 minutes remaining on the source.
+- Exit supercruise at the source. There will be between 3-6 targets, each providing 3 of a particular material.
+- Collect materials
+- When complete, EXIT game completely, not log off to main menu.
+- Re-enter game, and back into same mode you just left (open, private, solo).
+- Enter supercruise and stop immediately (speed 0 as soon as you see the countdown to enter supercruise, do not exit supercruise)
+- Open nav panel, there will be an undiscovered signal source right behind you.
+- Head to signal source, it’s the same one you left, but restocked with targets to collect.
+- Rinse and repeat until the timer runs out on the signal source, or you have hit the limit of the amount you can carry.
 
 To find the system type:
 
