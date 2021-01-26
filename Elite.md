@@ -22,10 +22,10 @@ Moneys:
 [HIP 12099](https://inara.cz/galaxy-starsystem/47296/) at HIP 12099 1b, Jameson Crash Site with
 
     Encoded:
-    atypical encryption archives (4)
-    adaptive enryptors capture (5)
-    modified consumer firmware (2) rare
-    cracked industrial firmware (3) rare
+    Atypical Encryption Archives (4)	
+    Adaptive Encryptors Capture (5)	
+    Cracked Industrial Firmware (3) (rare)
+    Modified Consumer Firmware (2) (rare)
 
 ### Manufactured Materials
 Dav’s Hope in Hyades Sector DR-V c2-23 A 5
