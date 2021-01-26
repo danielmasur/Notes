@@ -101,24 +101,16 @@ https://eddb.io/system
 - Improvised Components - Independant, any population, state civil unrest.
 - Proto Light Alloys and Proto Radiolic Alloys – Independant or Alliance, high population, state boom.
 
-# Raw
-
-Raw
+### Raw
 
 Method 1:
-
-Koli Discii – C6A
-
+Koli Discii C6A
 DSS the planet.
-
 Goto Crashed Ship.
-
 Farm mats at the crashed anaconda, Antimony, Ruthenium, Tellurium, Tungsten, Zirconium. Shoot the cargo racks to get up to 2 different items.
-
 Relog farm.
 
 Method 2:
-
 Goto HIP 36601 (1500ly from the bubble)
 Planet C1A
 DSS, land at biological site 5.
@@ -145,12 +137,11 @@ Planet B5C
 DSS, land at biological site 3.
 All crystalline clusters will be Antimony.
 
-Goto LHS 417
-Planet 9EA
+Goto LHS 417 9EA
 DSS, land at geological site
 All clusters will be Selenium.
 
-# Guardian Stuff
+### Guardian Stuff
 - Mats: Synuefe NL-N C23-4 B3 https://imgur.com/O3V9t8a
 - Data: IC 2391 Sector YE-A d103 B1
 
@@ -159,14 +150,14 @@ All clusters will be Selenium.
 Data missions from [Ngalinn](https://inara.cz/galaxy-station/37051/) to [Mainani](https://inara.cz/galaxy-station/35821/) and back again
 
 ### Federation
-Grind Ceos <-> Sothis Missionen, mit Cargo
+Grind Ceos <-> Sothis missions, with Cargo
 
 ### Exploration
 Robigo runs
 
 ### Trade
 
-Siehe Federation Grind
+See Federation Grind
 
 ### Combat
 
