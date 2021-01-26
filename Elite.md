@@ -1,6 +1,6 @@
 # Grinds
 ## Money grind
-Passenger flights between [Robigo Mines](https://inara.cz/galaxy-station/42265/) and [Sirius Atmospherics](https://inara.cz/galaxy-station/151365/) with Python
+Passenger flights between Robigo, Robigo Mines and Sothis, Sirius Atmospherics with Python
 Also getting exploration rank
 Also getting:
 
@@ -8,6 +8,8 @@ Also getting:
     Exquisite Focus Crystals (5)
     Refined Focus Crystals (4)
     Biotech Conductors (5)
+
+    Encoded:
     Modified Embedded Firmware (5)
 
 Moneys:
@@ -19,7 +21,7 @@ Moneys:
 
 ## Materials grind
 ### Encoded Materials
-[HIP 12099](https://inara.cz/galaxy-starsystem/47296/) at HIP 12099 1b, Jameson Crash Site with
+HIP 12099 1b, Jameson Crash Site
 
     Encoded:
     Atypical Encryption Archives (4)	
@@ -108,7 +110,7 @@ https://eddb.io/system
 Data missions from [Ngalinn](https://inara.cz/galaxy-station/37051/) to [Mainani](https://inara.cz/galaxy-station/35821/) and back again
 
 ### Federation
-Grind CEOS <-> SOTHIS Missionen, mit Cargo
+Grind Ceos <-> Sothis Missionen, mit Cargo
 
 ### Exploration
 Robigo runs
