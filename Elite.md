@@ -32,7 +32,7 @@ HIP 12099 1b, Jameson Crash Site
 ### Manufactured Materials
 Dav’s Hope in Hyades Sector DR-V c2-23 A 5
 
-9 Manufactured, 1 Encoded per run
+9 Manufactured, up to 4 Encoded per run
 
     Manufactured:
     Chemical Distillery (3)  
