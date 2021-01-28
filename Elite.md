@@ -124,20 +124,20 @@ All crystalline clusters will be Ruthenium.
 DSS, land at biological site 5.
 All crystalline clusters will be Tellurium.
 
-Planet C5A
+- Planet C5A
 DSS, land at biological site 10.
 All crystalline clusters will be Technetium.
 
 Goto Outotz LS-K D8-3
-Planet B5A
+- Planet B5A
 DSS, land at biological site 15.
 All crystalline clusters will be Yttrium.
 
-Planet B5C
+- Planet B5C
 DSS, land at biological site 3.
 All crystalline clusters will be Antimony.
 
-Goto LHS 417 9EA
+- Goto LHS 417 9EA
 DSS, land at geological site
 All clusters will be Selenium.
 
