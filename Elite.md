@@ -118,10 +118,10 @@ All crystalline clusters will be Polonium.
 - Planet C1D
 DSS, land at biological site 3.
 All crystalline clusters will be Ruthenium.
-- Planet C3B
+- Planet C3B - low grav
 DSS, land at biological site 5.
 All crystalline clusters will be Tellurium.
-- Planet C5A
+- Planet C5A - no grav
 DSS, land at biological site 10.
 All crystalline clusters will be Technetium.
 
