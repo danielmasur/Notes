@@ -115,15 +115,12 @@ Goto HIP 36601 (1500ly from the bubble)
 - Planet C1A
 DSS, land at biological site 5.
 All crystalline clusters will be Polonium.
-
 - Planet C1D
 DSS, land at biological site 3.
 All crystalline clusters will be Ruthenium.
-
 - Planet C3B
 DSS, land at biological site 5.
 All crystalline clusters will be Tellurium.
-
 - Planet C5A
 DSS, land at biological site 10.
 All crystalline clusters will be Technetium.
@@ -132,7 +129,6 @@ Goto Outotz LS-K D8-3
 - Planet B5A
 DSS, land at biological site 15.
 All crystalline clusters will be Yttrium.
-
 - Planet B5C
 DSS, land at biological site 3.
 All crystalline clusters will be Antimony.
