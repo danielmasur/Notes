@@ -128,7 +128,7 @@ All crystalline clusters will be Technetium. - no grav, painful!
 Goto Outotz LS-K D8-3
 - Planet B5A
 DSS, land at biological site 15.
-All crystalline clusters will be Yttrium.
+All crystalline clusters will be Yttrium. - low grav
 - Planet B5C
 DSS, land at biological site 3.
 All crystalline clusters will be Antimony.
