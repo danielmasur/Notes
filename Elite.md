@@ -112,15 +112,15 @@ Relog farm.
 
 Method 2:
 Goto HIP 36601 (1500ly from the bubble)
-Planet C1A
+- Planet C1A
 DSS, land at biological site 5.
 All crystalline clusters will be Polonium.
 
-Planet C1D
+- Planet C1D
 DSS, land at biological site 3.
 All crystalline clusters will be Ruthenium.
 
-Planet C3B
+- Planet C3B
 DSS, land at biological site 5.
 All crystalline clusters will be Tellurium.
 
