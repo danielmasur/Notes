@@ -133,7 +133,8 @@ All crystalline clusters will be Yttrium.
 DSS, land at biological site 3.
 All crystalline clusters will be Antimony.
 
-- Goto LHS 417 9EA
+Goto LHS 417
+- Planet 9EA
 DSS, land at geological site
 All clusters will be Selenium.
 
