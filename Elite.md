@@ -111,8 +111,8 @@ Farm mats at the crashed anaconda, Antimony, Ruthenium, Tellurium, Tungsten, Zir
 Relog farm.
 
 Method 2:
-- Goto HIP 36601 (1500ly from the bubble)
--- Planet C1A
+Goto HIP 36601 (1500ly from the bubble)
+- Planet C1A
 DSS, land at biological site 5.
 All crystalline clusters will be Polonium.
 
