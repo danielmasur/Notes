@@ -131,7 +131,7 @@ DSS, land at biological site 15.
 All crystalline clusters will be Yttrium. - low grav
 - Planet B5C
 DSS, land at biological site 3.
-All crystalline clusters will be Antimony.
+All crystalline clusters will be Antimony. - low grav
 
 Goto LHS 417
 - Planet 9EA
