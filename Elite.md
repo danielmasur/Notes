@@ -123,7 +123,7 @@ DSS, land at biological site 5.
 All crystalline clusters will be Tellurium. - no grav
 - Planet C5A
 DSS, land at biological site 10.
-All crystalline clusters will be Technetium.
+All crystalline clusters will be Technetium. - no grav, painful!
 
 Goto Outotz LS-K D8-3
 - Planet B5A
