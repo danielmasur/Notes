@@ -113,7 +113,7 @@ Relog farm.
 Method 2:
 Goto HIP 36601 (1500ly from the bubble)
 - Planet C1A
-DSS, land at biological site 5.
+DSS, land at biological site 5 or 6.
 All crystalline clusters will be Polonium.
 - Planet C1D
 DSS, land at biological site 3.
@@ -122,7 +122,10 @@ All crystalline clusters will be Ruthenium. - low grav
 DSS, land at biological site 5.
 All crystalline clusters will be Tellurium. - no grav
 - Planet C5A
-DSS, land at biological site 10.
+-- DSS, land at biological site 6.
+All crystalline clusters will be Technetium. - no grav
+
+-- land at biological site 10.
 All crystalline clusters will be Technetium. - no grav, painful!
 
 Goto Outotz LS-K D8-3
@@ -135,7 +138,7 @@ All crystalline clusters will be Antimony. - low grav
 
 Goto LHS 417
 - Planet 9EA
-DSS, land at geological site
+DSS, land at geological site #17, 19, 20, 22, 23, 25 and 26
 All clusters will be Selenium.
 
 ### Guardian Stuff
