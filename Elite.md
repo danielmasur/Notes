@@ -148,6 +148,7 @@ All clusters will be Selenium.
 ## Ranks grind
 ### Empire
 Data missions from [Ngalinn](https://inara.cz/galaxy-station/37051/) to [Mainani](https://inara.cz/galaxy-station/35821/) and back again
+Or: imperium iss hip 10716 und wu guandi
 
 ### Federation
 Grind Ceos <-> Sothis missions, with Cargo
