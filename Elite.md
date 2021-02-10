@@ -169,9 +169,9 @@ HIP 67882 - Adams Station ONLY (Others are 80k+ away)
 
 Also pick up missions if they deliver to one of the following factions:
 
-Partnership of HIP 67086
-Workers of HIP 67882 Democrats
-Chakpa Purple Travel Exchange
+- Partnership of HIP 67086
+- Workers of HIP 67882 Democrats
+- Chakpa Purple Travel Exchange
 
 After leaving Chargaff Installation 
 
