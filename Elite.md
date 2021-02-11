@@ -153,18 +153,15 @@ Or: imperium iss hip 10716 und wu guandi
 ### Federation
 Grind Ceos <-> Sothis missions, with Cargo
 
-FEDERATION RANK - GUIDE <OCHOSI TRIANGLE>
+Or:
 
-First: Get a small ship with good speed and a decent jump range (20 should be good).  Don't need weapons or utilities etc.  Make your ship as light as possible (I recommend Courier or Viper with good engines like enhanced thrusters).
+OCHOSI TRIANGLE
 
-Jump to Chakpa Station: Chargaff Installation
+Jump to Chakpa System, Chargaff Installation Station
+Take missions from any Federation faction (has emblem under mission count) going to 
 
-It's an outpost, so medium is largest docking pad (as are most in this guide).
+Ochosi or 
 
-Open mission board and take missions from any Federation faction (has emblem under mission count) going to 
-
-Ochosi 
-or 
 HIP 67882 - Adams Station ONLY (Others are 80k+ away)
 
 Also pick up missions if they deliver to one of the following factions:
@@ -173,13 +170,7 @@ Also pick up missions if they deliver to one of the following factions:
 - Workers of HIP 67882 Democrats
 - Chakpa Purple Travel Exchange
 
-After leaving Chargaff Installation 
-
-Go to:
-
-Williams Dock
-
-Do the same thing with the mission board.  Remember to watch the clock at the top right (if you have it on) for the 10 minute marker -  means there are new missions, so if you're 2 minutes away from a 10 minute point, just wait and grab the new missions the board refreshed.
+After leaving Chargaff Installation go to Williams Dock and get the same missions
 
 After that, go to:
 
@@ -187,6 +178,7 @@ Ochosi - Perry's Folly The only station.
 
 Deliver the missions you have, repeat on grabbing missions from there to one of the other two systems.  Get in a good rythm and watch the Federation Rank climb.
 
+Might even Take missions for Adams Station at Hip 67882
 
 Chapka: Chargaff -> Chapka: Williams Dock -> Ochosi: Perry's Folly -> Hip 67882 Adams Station
 
