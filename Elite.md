@@ -69,10 +69,10 @@ Dav’s Hope in Hyades Sector DR-V c2-23 A 5
     
     Encoded:
     Classified Scan Databanks (3)
-    cracked industrial firmware (3) rare
-    modified consumer firmware (2) rare
+    cracked industrial firmware (3) (rare)
+    modified consumer firmware (2) (rare)
     Specialised Legacy Firmware (1)
-    Tagged Encryption Codes (2) rare
+    Tagged Encryption Codes (2) (rare)
     Unusual Encrypted Files (1)
 
 ### Manufactured in space
