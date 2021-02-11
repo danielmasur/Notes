@@ -187,6 +187,9 @@ Ochosi - Perry's Folly The only station.
 
 Deliver the missions you have, repeat on grabbing missions from there to one of the other two systems.  Get in a good rythm and watch the Federation Rank climb.
 
+
+Chapka: Chargaff -> Chapka: Williams Dock -> Ochosi: Perry's Folly -> Hip 67882 Adams Station
+
 ### Exploration
 Robigo runs
 
