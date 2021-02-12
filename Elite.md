@@ -29,6 +29,14 @@ HIP 12099 1b, Jameson Crash Site
     Cracked Industrial Firmware (3) (rare)
     Modified Consumer Firmware (2) (rare)
 
+#### Encoded from Wake Scans
+
+    Atypical Disrupted Wake Echoes (1) (Common)
+    Anomalous FSD Telemetry (2) (Rare)
+    Eccentric Hyperspace Trajectories (4)	
+    Strange Wake Solutions (3) (Rare)
+    Datamined Wake Exceptions (5) (Rare)
+
 ### Manufactured Materials
 Dav’s Hope in Hyades Sector DR-V c2-23 A 5
 
@@ -74,14 +82,6 @@ Dav’s Hope in Hyades Sector DR-V c2-23 A 5
     Specialised Legacy Firmware (1)
     Tagged Encryption Codes (2) (rare)
     Unusual Encrypted Files (1)
-
-#### Encoded from Wake Scans
-
-    Atypical Disrupted Wake Echoes (1) (Common)
-    Anomalous FSD Telemetry (2) (Rare)
-    Eccentric Hyperspace Trajectories (4)	
-    Strange Wake Solutions (3) (Rare)
-    Datamined Wake Exceptions (5) (Rare)
 
 #### Manufactured from wrecks:
 
