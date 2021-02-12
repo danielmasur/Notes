@@ -75,6 +75,31 @@ Dav’s Hope in Hyades Sector DR-V c2-23 A 5
     Tagged Encryption Codes (2) (rare)
     Unusual Encrypted Files (1)
 
+#### Encoded from Wake Scans
+
+    Atypical Disrupted Wake Echoes (1) (Common)
+    Anomalous FSD Telemetry (2) (Rare)
+    Eccentric Hyperspace Trajectories (4)	
+    Strange Wake Solutions (3) (Rare)
+    Datamined Wake Exceptions (5) (Rare)
+
+#### Manufactured from wrecks:
+
+    Conductive Components (2) (Common)
+    Electrochemical Arrays (3) (Common)
+    Precipitated Alloys (3) 
+    Focus Crystals (3) 
+    Grid Resistors (1) (Common)
+    Thermic Alloys (4)
+    Conductive Ceramics (3) 
+    Hybrid Capacitors (2) (Common)
+    Proprietary Composites (4) 
+    High Density Composites (3) 
+    Polymer Capacitors (4) (Rare)
+    Polymer Capacitors (4) 
+    Electrochemical Arrays (3) (Rare)
+    Hybrid Capacitors (2) (Rare)
+
 ### Manufactured in space
 
 - Fly to each system type you’re farming.
