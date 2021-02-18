@@ -1,3 +1,10 @@
+# community goal
+
+- aerial
+- goman
+- karsuki ti
+- irukama
+
 # Grinds
 ## Money grind
 Passenger flights between Robigo, Robigo Mines and Sothis, Sirius Atmospherics with Python
