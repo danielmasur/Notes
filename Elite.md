@@ -1,9 +1,3 @@
-# community goal
-
-- aerial
-- goman
-- karsuki ti
-- irukama
 
 # Grinds
 ## Money grind
@@ -43,6 +37,20 @@ HIP 12099 1b, Jameson Crash Site
     Eccentric Hyperspace Trajectories (4)	
     Strange Wake Solutions (3) (Rare)
     Datamined Wake Exceptions (5) (Rare)
+
+#### Encoded from High Emissions
+| Material | State | Allegiance |
+|----------|-------|------------|
+|Imperial Shielding|None / Election|Empire|
+|Core Dynamic Composites|None / Election|Federation|
+|Proprietary Composites|None / Election|Federation|
+|Proto Heat Radiators|Boom|Independant / Alliance|
+|Proto Radiolic Alloys|Boom|Independant / Alliance|
+|Proto Light Alloys|Boom|Independant / Alliance|
+|Improvised Components|Civil Unrest|Independant / Alliance|
+|Pharmaceutical Isolators|Outbreak|Independant / Alliance|
+|Military Grad Alloys|War / Civil War|Independant / Alliance|
+|Militar Supercapacitors|War / Civil War|Independant / Alliance|
 
 ### Manufactured Materials
 Dav’s Hope in Hyades Sector DR-V c2-23 A 5
