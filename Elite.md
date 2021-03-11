@@ -1,4 +1,3 @@
-- MEENE - Heat Sink Launcher - Ammo capacity
 - KUK - Armour - Heavy duty, Hull Reinforcement Package - Heavy duty
 
 
