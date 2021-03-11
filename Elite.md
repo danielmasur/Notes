@@ -1,6 +1,3 @@
-- KUK - Armour - Heavy duty, Hull Reinforcement Package - Heavy duty
-
-
 # Grinds
 ## Money grind
 Passenger flights between Robigo, Robigo Mines and Sothis, Sirius Atmospherics with Python
