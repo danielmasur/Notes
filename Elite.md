@@ -1,7 +1,5 @@
-- KUWEMAKI - Power Plant - Armoured
 - MEENE - Heat Sink Launcher - Ammo capacity
 - KUK - Armour - Heavy duty, Hull Reinforcement Package - Heavy duty
-- WYRD - Power Distributor - Charge enhanced
 
 
 # Grinds
