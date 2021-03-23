@@ -178,6 +178,19 @@ Or: imperium iss hip 10716 und wu guandi
 ### Federation
 Grind Ceos <-> Sothis missions, with Cargo
 
+Ceos:
+
+- Brunel Hub
+- New Dawn Station
+
+Sothis:
+
+- Dons Inheritance
+
+
+- Newholme Station
+
+
 Or:
 
 OCHOSI TRIANGLE
