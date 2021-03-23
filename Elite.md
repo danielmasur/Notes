@@ -186,9 +186,7 @@ Ceos:
 Sothis:
 
 - Dons Inheritance
-
-
-- Newholme Station
+- Newholm Station
 
 
 Or:
