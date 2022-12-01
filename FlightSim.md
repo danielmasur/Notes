@@ -1,6 +1,9 @@
 # Routes
 * https://simbrief.com
 
+# Airports
+* https://skyvector.com/airports
+
 # Weather
 * https://metar-taf.com/EDDB
 
