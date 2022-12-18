@@ -239,3 +239,6 @@ See Federation Grind
 
 Occupied Excap Pods
 hip 16613 1 A
+
+# Tools
+https://github.com/EDCD/EDDI/releases
