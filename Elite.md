@@ -228,6 +228,9 @@ See Federation Grind
 
 ### Combat
 
+Low Res Site: LTT 4487 
+Missions: Solati -> Solati Reach, ELWireCraft https://eddb.io/system/17073
+
 # Ships
 
 - PvE Cutter: https://s.orbis.zone/7sqi
