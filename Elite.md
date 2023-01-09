@@ -161,6 +161,11 @@ All crystalline clusters will be Yttrium. - low grav
 DSS, land at biological site 3.
 All crystalline clusters will be Antimony. - low grav
 
+Kappa-1 Volantis
+Braintrees
+Lots of Chromium and Zinc, lesser Selenium
+
+Outdated:
 Goto LHS 417
 - Planet 9EA
 DSS, land at geological site #17, 19, 20, 22, 23, 25 and 26
