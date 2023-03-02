@@ -248,5 +248,24 @@ Missions: Solati -> Solati Reach, ELWireCraft https://eddb.io/system/17073
 Occupied Excap Pods
 hip 16613 1 A
 
+# AFK
+Shoot pirates in HIP 105439
+
+Missions are picked up in: (mission rewards are also claimed here)
+
+| Pad | Station | System |
+|----------|:-------------:|------:|
+|M|Lagerkvist Prospect| Chang Hsien|
+|M|Thiele Hub         | Chang Hsien|
+|M|Riccioli Colony    | Chimbia|
+|M|Tuttle Orbital     | Chimbia|
+
+ONLY turn in kill bounties at stations far away or with no local faction present. 
+
+Suggested system for turnins:
+| Pad | Station | System |
+|----------|:-------------:|------:|
+|M|Zhuravleva Holdings | Muss|
+
 # Tools
 https://github.com/EDCD/EDDI/releases
