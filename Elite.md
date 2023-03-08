@@ -148,8 +148,13 @@ Lots of Chromium and Zinc, lesser Selenium
 ### Guardian Stuff
 #### Materials
 System: Synuefe NL-N C23-4
+
 Planet: B3 https://imgur.com/O3V9t8a
-- Data: IC 2391 Sector YE-A d103 B1
+
+#### Data
+System: IC 2391 Sector YE-A d103
+
+Planet: B1
 
 ## Ranks grind
 ### Empire Rank
