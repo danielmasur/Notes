@@ -21,9 +21,10 @@ Moneys:
 
 ## Materials grind
 ### Encoded Materials
-HIP 12099 1b, Jameson Crash Site
+#### Jameson Crash Site
+System: HIP 12099
+Planet: 1b
 
-    Encoded:
     Atypical Encryption Archives (4)	
     Adaptive Encryptors Capture (5)	
     Cracked Industrial Firmware (3) (rare)
@@ -38,7 +39,10 @@ HIP 12099 1b, Jameson Crash Site
     Datamined Wake Exceptions (5) (Rare)
 
 ### Manufactured Materials
-Dav’s Hope in Hyades Sector DR-V c2-23 A 5
+#### Dav’s Hope
+System: Hyades Sector DR-V c2-23
+
+Planet: A 5
 
 9 Manufactured, up to 4 Encoded per run
 
@@ -75,7 +79,7 @@ Dav’s Hope in Hyades Sector DR-V c2-23 A 5
     Shielding Sensors (3)  
     Worn Shield Emitters (1) (rare) 
     
-    Encoded:
+    Also Encoded once every run:
     Classified Scan Databanks (3)
     cracked industrial firmware (3) (rare)
     modified consumer firmware (2) (rare)
@@ -127,30 +131,32 @@ Dav’s Hope in Hyades Sector DR-V c2-23 A 5
 |Militar Supercapacitors|War / Civil War|Independant / Alliance|
 
 ### Raw
-
-Method 1:
-Koli Discii C6A
+#### Crashed Ship #1
+System: Koli Discii
+Planet: C6A
 DSS the planet.
 Goto Crashed Ship.
 Farm mats at the crashed anaconda, Antimony, Ruthenium, Tellurium, Tungsten, Zirconium. Shoot the cargo racks to get up to 2 different items.
-Relog farm.
+Exit Game, re log in
 
-Method 2:
+#### Farming from Planets
 
 Kappa-1 Volantis
 Braintrees
 Lots of Chromium and Zinc, lesser Selenium
 
 ### Guardian Stuff
-- Mats: Synuefe NL-N C23-4 B3 https://imgur.com/O3V9t8a
+#### Materials
+System: Synuefe NL-N C23-4
+Planet: B3 https://imgur.com/O3V9t8a
 - Data: IC 2391 Sector YE-A d103 B1
 
 ## Ranks grind
-### Empire
+### Empire Rank
 Data missions from [Ngalinn](https://inara.cz/galaxy-station/37051/) to [Mainani](https://inara.cz/galaxy-station/35821/) and back again
 Or: imperium iss hip 10716 und wu guandi
 
-### Federation
+### Federation Rank
 Grind Ceos <-> Sothis missions, with Cargo
 
 Ceos:
@@ -194,14 +200,14 @@ Might even Take missions for Adams Station at Hip 67882
 
 Chapka: Chargaff -> Chapka: Williams Dock -> Ochosi: Perry's Folly -> Hip 67882 Adams Station
 
-### Exploration
+### Exploration Rank
 Robigo runs
 
-### Trade
+### Trade Rank
 
 See Federation Grind
 
-### Combat
+### Combat Rank
 
 Low Res Site: LTT 4487 
 Missions: Solati -> Solati Reach, ELWireCraft https://eddb.io/system/17073
