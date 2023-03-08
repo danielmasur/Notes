@@ -136,40 +136,10 @@ Farm mats at the crashed anaconda, Antimony, Ruthenium, Tellurium, Tungsten, Zir
 Relog farm.
 
 Method 2:
-Goto HIP 36601 (1500ly from the bubble)
-- Planet C1A
-DSS, land at biological site 5 or 6.
-All crystalline clusters will be Polonium.
-- Planet C1D
-DSS, land at biological site 3.
-All crystalline clusters will be Ruthenium. - low grav
-- Planet C3B
-DSS, land at biological site 5.
-All crystalline clusters will be Tellurium. - no grav
-- Planet C5A
--- DSS, land at biological site 6.
-All crystalline clusters will be Technetium. - no grav
-
--- land at biological site 10.
-All crystalline clusters will be Technetium. - no grav, painful!
-
-Goto Outotz LS-K D8-3
-- Planet B5A
-DSS, land at biological site 15.
-All crystalline clusters will be Yttrium. - low grav
-- Planet B5C
-DSS, land at biological site 3.
-All crystalline clusters will be Antimony. - low grav
 
 Kappa-1 Volantis
 Braintrees
 Lots of Chromium and Zinc, lesser Selenium
-
-Outdated:
-Goto LHS 417
-- Planet 9EA
-DSS, land at geological site #17, 19, 20, 22, 23, 25 and 26
-All clusters will be Selenium.
 
 ### Guardian Stuff
 - Mats: Synuefe NL-N C23-4 B3 https://imgur.com/O3V9t8a
