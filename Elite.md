@@ -250,3 +250,22 @@ Suggested system for turnins:
 
 # Tools
 https://github.com/EDCD/EDDI/releases
+
+# Kompass für dummies
+Bei 0°
+
+Oberer Wert +
+
+Unterer Wert =
+
+Bei 90°
+
+Oberer Wert =
+
+Unterer Wert +
+
+Bei 180°
+
+Oberer Wert -
+
+Unterer Wert =
