@@ -229,24 +229,22 @@ Missions: Solati -> Solati Reach, ELWireCraft https://eddb.io/system/17073
 Occupied Excap Pods
 hip 16613 1 A
 
-# AFK
-Shoot pirates in HIP 105439
+# AFK T10
+Puneith System - Wheelock Port or Papin Base
+Missions from Crimson Amada and HT7169
 
-Missions are picked up in: (mission rewards are also claimed here)
+Ahayan System - Feustel Ring
+HIP 90112 Jet Central Corp. and Liberals of Ahayan
 
-| Pad | Station | System |
-|----------|:-------------:|------:|
-|M|Lagerkvist Prospect| Chang Hsien|
-|M|Thiele Hub         | Chang Hsien|
-|M|Riccioli Colony    | Chimbia|
-|M|Tuttle Orbital     | Chimbia|
+HIP 90112 - Townshend Settlement
+Natrual HIP 90112 Party and New HIP 90112 for Equality
 
-ONLY turn in kill bounties at stations far away or with no local faction present. 
+Weniger
+Ahayan System - Goeppert-Mayer Vision
+Missions from Labour Union of Ahayan and HIP 90112 Jet Central Corp.
 
-Suggested system for turnins:
-| Pad | Station | System |
-|----------|:-------------:|------:|
-|M|Zhuravleva Holdings | Muss|
+Gar nicht
+HIP 90112 System - Kubasov Station
 
 # Tools
 https://github.com/EDCD/EDDI/releases
@@ -281,5 +279,9 @@ https://github.com/EDCD/EDDI/releases
     N12:   Plaa Trua WQ-C d13-0 
     N13:   Plaa Trua QL-B c27-0 
     N14:   Wregoe OP-D b58-0 
+
+# AFK T10
+
+
     N15:   Wregoe ZE-B c28-2 
     N16:   Gali (Chadwick Dock)
