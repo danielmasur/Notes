@@ -279,9 +279,5 @@ https://github.com/EDCD/EDDI/releases
     N12:   Plaa Trua WQ-C d13-0 
     N13:   Plaa Trua QL-B c27-0 
     N14:   Wregoe OP-D b58-0 
-
-# AFK T10
-
-
     N15:   Wregoe ZE-B c28-2 
     N16:   Gali (Chadwick Dock)
