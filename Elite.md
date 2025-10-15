@@ -262,7 +262,7 @@ https://github.com/EDCD/EDDI/releases
     Oberer Wert -
     Unterer Wert =
 
-# Booze Cruise
+# Booze Cruise Fleet Carrier Route
 
     N-0:   HIP 58832 (Rackham's Peak)
     N-1:   HD 105341 (Carrier Bottleneck System)
@@ -281,3 +281,9 @@ https://github.com/EDCD/EDDI/releases
     N14:   Wregoe OP-D b58-0 
     N15:   Wregoe ZE-B c28-2 
     N16:   Gali (Chadwick Dock)
+# Odyssey
+## Manufacturing Material
+    Salvage Mission:
+    Retrieve Memory Chip
+    Relog
+  
