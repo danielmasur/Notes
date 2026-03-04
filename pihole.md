@@ -1,7 +1,7 @@
 **Shared Folders**
 
- - /etc/dnsmasq.d /share/ContainerData/pihole/etcdnsmasq
- - /etc/pihole /share/ContainerData/pihole/etcpihole
+ - /etc/dnsmasq.d /ContainerData/pihole/etcdnsmasq
+ - /etc/pihole /ContainerData/pihole/etcpihole
 
 **Network Config**
 
@@ -12,3 +12,8 @@
 **Password reset**
 
  - 
+**Vorgehen**
+  - neuen Container anlegen mit dont start
+  - alten löschen
+  - neuen starten
+  - auto start einstellen
