@@ -240,6 +240,59 @@ containers:
 ++    - --insecure
 kubectl rollout restart deployment argocd-server -n argocd
 ```
+# Install Longhorn
+```
+kubectl apply -f https://raw.githubusercontent.com/longhorn/longhorn/v1.11.1/deploy/longhorn.yaml
+USER=longhorn_admin; PASSWORD=longhorn_password; echo "${USER}:$(openssl passwd -stdin -apr1 <<< ${PASSWORD})" > auth
+kubectl -n longhorn-system create secret generic basic-auth --from-file=auth
+vim longhorn-middlewares.yml
+apiVersion: traefik.io/v1alpha1
+kind: Middleware
+metadata:
+  name: longhorn-auth
+  namespace: longhorn-system
+spec:
+  basicAuth:
+    secret: basic-auth
+---
+apiVersion: traefik.io/v1alpha1
+kind: Middleware
+metadata:
+  name: longhorn-buffering
+  namespace: longhorn-system
+spec:
+  buffering:
+    # Allows backing image uploads up to 10,000MB
+    maxRequestBodyBytes: 10485760000 
+kubectl apply -f longhorn-middlewares.yml
+
+vim longhorn-ingress.yml
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: longhorn-ingress
+  namespace: longhorn-system
+  annotations:
+    # Connect the middlewares defined in step 2
+    traefik.ingress.kubernetes.io/router.middlewares: 
+      longhorn-system-longhorn-auth@kubernetescrd,
+      longhorn-system-longhorn-buffering@kubernetescrd
+spec:
+  ingressClassName: traefik
+  rules:
+  - http:
+      paths:
+      - path: /
+        pathType: Prefix
+        backend:
+          service:
+            name: longhorn-frontend
+            port:
+              number: 80
+
+kubectl -n longhorn-system apply -f longhorn-ingress.yml
+kubectl -n longhorn-system get ingress
+```
 
 # kubctl Cheat Sheet
 ## List Cluster Nodes
