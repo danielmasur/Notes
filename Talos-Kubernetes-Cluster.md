@@ -6,6 +6,7 @@ brew install kubectl
 echo 'source <(kubectl completion bash)' >>~/.bash_profile
 brew install siderolabs/tap/talosctl
 brew install argocd
+brew install helm
 ```  
 
 ## Setup Talos VM template
@@ -166,8 +167,46 @@ kubectl delete pod/pingpong
 kubectl apply -f https://github.com/cert-manager/cert-manager/releases/download/v1.20.0/cert-manager.yaml
 ```
 
-# Install traefik
-TODO
+# Install MetalLB
+```
+kubectl apply -f https://raw.githubusercontent.com/metallb/metallb/v0.14.5/config/manifests/metallb-native.yaml
+```
+
+# Install Traefik
+```
+helm repo add traefik https://helm.traefik.io/traefik
+helm repo update traefik
+helm show values traefik/traefik > values.yaml
+vim custom-values.yaml
+
+ingressRoute:
+  dashboard:
+    enabled: true
+
+kubectl create namespace traefik
+helm upgrade --install traefik traefik/traefik -f custom-values.yaml -n traefik
+
+vim traefik-dashboard.yaml
+apiVersion: traefik.io/v1alpha1
+kind: IngressRoute
+metadata:
+  name: traefik-dashboard
+  namespace: traefik
+spec:
+  entryPoints:
+    - web
+  routes:
+    - match: PathPrefix(`/dashboard`) || PathPrefix(`/api`)
+      kind: Rule
+      services:
+        - name: api@internal
+          kind: TraefikService
+
+kubectl apply -f traefik-dashboard.yaml
+kubectl -n traefik get services
+http://192.168.23.211/dashboard/
+
+```
 
 # Install ArgoCD
 ```
@@ -191,8 +230,27 @@ argocd login localhost:8080 --insecure
 
 # Add local cluster
 argocd cluster add admin@proxmox-cluster
-```
-  
-kubectl patch svc argocd-server -n argocd -p '{"spec": {"type": "LoadBalancer"}}'
 
-kubectl get svc argocd-server -n argocd -o=jsonpath='{.status.loadBalancer.ingress[0].ip}'
+kubectl -n argocd get svc
+kubectl -n argocd edit deployment argocd-server
+containers:
+- name: argocd-server
+  args:
+    - /usr/local/bin/argocd-server
+++    - --insecure
+kubectl rollout restart deployment argocd-server -n argocd
+```
+
+# kubctl Cheat Sheet
+## List Cluster Nodes
+```kubectl get nodes -o wide```
+## List Namespaces
+```kubectl get namespace```
+## List Pods in Namespace
+```kubectl -n argocd get pods```
+## List Services in Namespace
+```kubectl -n argocd get services```
+## Edit Deployment
+```kubectl -n argocd edit deployment argocd-server```
+## Restart Deployment
+```kubectl rollout restart deployment argocd-server -n argocd```
